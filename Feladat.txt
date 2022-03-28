@@ -1,0 +1,6 @@
+UnitTEST
+
+Készisd el a Tic Tac Toe (X/0) Játéknak a Unit testjét.
+
+
+Vizsgáld meg hogy a játékban az Elsö 3 sorban sikerül 3x O Majd ezt ugyan ugy oszlopban és átlokban is vizsgáld meg.
